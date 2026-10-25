@@ -1,0 +1,6 @@
+{
+  "name": "praise-fellowship",
+  "private": true,
+  "description": "Praise Fellowship Church, Ely MN — static site",
+  "scripts": { "check": "node scripts/check-required-files.mjs", "build": "node scripts/check-required-files.mjs" }
+}
